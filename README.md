@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bohdansam
 - 👀 I’m interested in all
-- 🌱 I’m currently learning Pascal😰
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Microsoft 
 - 📫 How to reach me bogdanbisnes3@gmail.com
 - 😄 Pronouns: he
